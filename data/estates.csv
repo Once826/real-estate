@@ -1,0 +1,11 @@
+id,headline,price,size,rooms,zip,city,street,number,country
+1,Beautiful apartment in the city center,1000000,200,4,1010,Vienna,Seilerstätte,9,Austria
+2,Great penthouse with a view,1500000,300,5,1010,Vienna,Seilerstätte,9,Austria
+3,Lovely house in the suburbs,2000000,400,6,1130,Vienna,Hietzinger Hauptstraße,1,Austria
+4,Spacious villa with a pool,2500000,500,7,1130,Vienna,Hietzinger Hauptstraße,1,Austria
+5,Cosy apartment with a garden,3000000,600,8,1010,Vienna,Seilerstätte,9,Austria
+6,Charming house with a view,3500000,700,9,1130,Vienna,Hietzinger Hauptstraße,1,Austria
+7,Modern villa in the city center,4000000,800,10,1010,Vienna,Seilerstätte,9,Austria
+8,Luxurious penthouse with a pool,4500000,900,11,1130,Vienna,Hietzinger Hauptstraße,1,Austria
+9,Beautiful apartment with a garden,5000000,1000,12,1010,Vienna,Seilerstätte,9,Austria
+10,Great penthouse with a view,5500000,1100,13,1130,Vienna,Hietzinger Hauptstraße,1,Austria
